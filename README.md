@@ -25,11 +25,6 @@
 
 <br />
 
-- 💬 Ask me about Javascript, Typescript, CSS, HTML 
-- 📫 How to reach me: **gabr.jesus001@gmail.com**
-
-<br />
-
 <p align="center"> <strong>Languages and Tools...</strong></p>
 
 <p align="center">
