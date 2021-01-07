@@ -1,7 +1,5 @@
 ### :rocket: < Gabriel_Jesus />
 
-<br />
-
 <p align="center">
   <a href="https://www.instagram.com/gabs.j3sus/" target="_blank" alt="Instagram Badge" rel="nofollow">
     <img src="https://img.shields.io/badge/%20-Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabs.j3sus/">
@@ -54,8 +52,7 @@
 </p>
 <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-J3sus&show_icons=true&theme=gruvbox" alt="Gabriel-J3sus" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-J3sus&layout=compact&theme=gruvbox" alt="Languages Counter" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-J3sus&show_icons=true&theme=gruvbox" alt="Gabriel-J3sus" />
 </p>
 
 <!--
