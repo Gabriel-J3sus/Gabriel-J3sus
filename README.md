@@ -46,6 +46,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-J3sus&show_icons=true&theme=gruvbox" alt="Gabriel-J3sus" />
 </p>
+<br />
+<br />
+<p align="center">
+  <strong>"The man who fears losing has already lost. Fear cuts deeper than swords.” - George R. R. Martin</strong> ⚔️
+</p>
 
 <!--
 **Gabriel-J3sus/Gabriel-J3sus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
