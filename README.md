@@ -48,9 +48,9 @@
 </p>
 <br />
 <br />
-<h2 align="center">
+<h3 align="center">
   <strong>"The man who fears losing has already lost. Fear cuts deeper than swords.” - George R. R. Martin</strong> ⚔️
-</h2>
+</h3>
 
 <!--
 **Gabriel-J3sus/Gabriel-J3sus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
