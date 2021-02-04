@@ -44,7 +44,7 @@
 </p>
 <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-J3sus&show_icons=true&theme=gruvbox" alt="Gabriel-J3sus" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-J3sus&show_icons=true&theme=cobalt" alt="Gabriel-J3sus" />
 </p>
 <br />
 <br />
