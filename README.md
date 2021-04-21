@@ -52,6 +52,21 @@
   <strong>"The man who fears losing has already lost. Fear cuts deeper than swords.” - George R. R. Martin</strong> ⚔️
 </h3>
 
+<br />
+
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Starting with React.js](https://gabrjesus.vercel.app/blog/como-dar-os-primeiros-passos-no-reactjs)
+<!-- BLOG-POST-LIST:END -->
+
+<br />
+
+## Latest Projects
+<!-- PROJECT-POST-LIST:START -->
+- [My website: gabrieljesus.com](https://gabrjesus.vercel.app/work/criando-blog-com-next.js-e-typescript)
+<!-- PROJECT-POST-LIST:END -->
+
+
 <!--
 **Gabriel-J3sus/Gabriel-J3sus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
