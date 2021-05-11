@@ -22,6 +22,7 @@
 
 <p align="center">I'm studying Software Development, always looking for quality, clean code, and best practises.</p>
 <p align="center">🧠 Open for new ideas and inspirations 🧠</p>
+<p align="center"><a align="center" target="_blank" rel="noopener noreferrer" href="https://gabrjesus.vercel.app/">✨ My Website ✨</a></p>
 
 <br />
 
