@@ -20,7 +20,7 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;"></a>
 </p>
 
-<p align="center">I'm studying Software Development, always looking for quality, clean code, and best practises.</p>
+<p align="center">I'm studying CS, always looking for quality, clean code, and best practises.</p>
 <p align="center">🧠 Open for new ideas and inspirations 🧠</p>
 <p align="center"><a align="center" target="_blank" rel="noopener noreferrer" href="https://gabrjesus.vercel.app/">✨ My Website ✨</a></p>
 
